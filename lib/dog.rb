@@ -4,12 +4,10 @@ class Dog
   end
   
   def name
-    #@the_breed_of_the_dog=new_breed
-  #end
+    @name
+  end
 
-#def breed
-  #@the_breed_of_the_dog
-#end 
+end
   
 def name
   @the_name_of_the_dog
