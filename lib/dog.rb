@@ -12,7 +12,7 @@ class Dog
   
 end
   
-
+lassie.initialize_variable_set=(:name,"lassie")
 
 fido = Dog.new("fido")
 fido.name 
