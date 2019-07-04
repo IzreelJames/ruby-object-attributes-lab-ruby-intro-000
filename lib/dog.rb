@@ -11,15 +11,15 @@ end
 
 
 fido = Dog.new("fido")
-fido.name = "fido"
+fido.name 
 #fido.breed ="pit bull"
 
 snoopy= Dog.new("snoopy")
-snoopy.name = "snoopy"
+snoopy.name
 #snoopy.breed = "german shepard"
 
 lassie = Dog.new("lassie")
-lassie.name = "lassie"
+lassie.name
 #lassie.breed = "lab"
 
 
