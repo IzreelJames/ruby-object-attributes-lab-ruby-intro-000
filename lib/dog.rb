@@ -12,7 +12,7 @@ class Dog
   
 end
   
-lassie.instance_variable_set=(:@name,"lassie")
+lassie.instance_variable_set=( :@name,"lassie" )
 
 fido = Dog.new("fido")
 fido.name 
