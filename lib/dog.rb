@@ -13,6 +13,7 @@ class Dog
 end
   
 lassie.instance_variable_set=( :@name,"lassie" )
+lassie.instace_variable_get = (:)
 
 fido = Dog.new("fido")
 fido.name 
